@@ -25,7 +25,7 @@ This project provides a hands-on opportunity to explore advanced NLP techniques 
 
 - **Python**: Programming language used for the implementation.
 - **Transformers Library**: For leveraging pre-trained NLP models for summarization.
-- **Flask/Streamlit**: For creating a web interface to interact with the summarization system.
+- **Flask**: For creating a web interface to interact with the summarization system.
 - **Natural Language Processing (NLP)**: Techniques and models used for text summarization.
   
 ## Getting Started
