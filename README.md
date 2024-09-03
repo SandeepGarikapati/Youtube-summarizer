@@ -41,11 +41,6 @@ To get started with the Video Transcript Summarizer, follow these steps:
       ```bash
       python app.py
       ```
-    - For Streamlit:
-      ```bash
-      streamlit run app.py
-      ```
-
 4. **Upload a Transcript**: Use the provided web interface to upload video transcripts and obtain summaries.
 
 ## Usage
