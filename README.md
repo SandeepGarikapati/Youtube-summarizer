@@ -21,6 +21,13 @@ This project provides a hands-on opportunity to explore advanced NLP techniques 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Transformers](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black) ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 
+## Tech Description
+
+- **Python**: Programming language used for the implementation.
+- **Transformers Library**: For leveraging pre-trained NLP models for summarization.
+- **Flask/Streamlit**: For creating a web interface to interact with the summarization system.
+- **Natural Language Processing (NLP)**: Techniques and models used for text summarization.
+  
 ## Getting Started
 
 To get started with the Video Transcript Summarizer, follow these steps:
