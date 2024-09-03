@@ -16,8 +16,7 @@ This project provides a hands-on opportunity to explore advanced NLP techniques 
 
 ## Technologies Used
 
-- **Python**: Programming language used for the implementation.
--![Transformers](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
+- ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)![Transformers](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
 - **Flask/Streamlit**: For creating a web interface to interact with the summarization system.
 - **Natural Language Processing (NLP)**: Techniques and models used for text summarization.
 
