@@ -14,6 +14,9 @@ This project provides a hands-on opportunity to explore advanced NLP techniques 
 - **Abstractive Summarization**: Utilize state-of-the-art NLP techniques to generate human-like summaries.
 - **User-Friendly Interface**: Simplified process for uploading video transcripts and retrieving summaries.
 
+## Working Principle
+![working principle](working.png)
+
 ## Technologies Used
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Transformers](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black) ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
