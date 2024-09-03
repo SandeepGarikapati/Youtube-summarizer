@@ -1,4 +1,4 @@
-# Video Transcript Summarizer
+# VidSummarizer
 
 ## Project Overview
 
