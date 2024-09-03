@@ -50,12 +50,6 @@ To get started with the Video Transcript Summarizer, follow these steps:
       ```
 4. **Upload a Transcript**: Use the provided web interface to upload video transcripts and obtain summaries.
 
-## Usage
-
-1. **Upload**: Provide the video transcript in the specified format.
-2. **Summarize**: The system will process the transcript and generate a summary.
-3. **Review**: View and download the summarized content.
-
 ## Contributing
 
 We welcome contributions to enhance the project. If you have suggestions, improvements, or bug fixes, please follow these steps:
